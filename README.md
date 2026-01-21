@@ -202,15 +202,9 @@ This project is open source and available under the MIT License.
 5. **Review regularly** - The script handles this automatically at 70% review rate
 6. **Pray first** - Ask God to help you hide His Word in your heart
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Email: your-email@example.com
-- Discussions: GitHub Discussions page
 
 ---
 
 *"Thy word have I hid in mine heart, that I might not sin against thee."* - Psalm 119:11 (KJV)
 
-**May your sword stay sharp! ⚔️**
+**May your sword stay sharp!**
