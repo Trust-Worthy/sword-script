@@ -37,7 +37,7 @@ pip3 install rapidfuzz
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/yourusername/sword-script/main/sword-script
+curl -O https://raw.githubusercontent.com/Trust-Worthy/sword-script/main/sword-script.sh
 
 # Make it executable
 chmod +x sword-script
